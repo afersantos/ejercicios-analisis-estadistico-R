@@ -10,7 +10,25 @@ Este repositorio contiene varios ejercicios de análisis estadístico realizados
 
 ## Estructura del Proyecto
 
+### 1. Ejercicios.ipynb
+Colección de ejercicios de Análisis Estadístico realizados con R, incluyendo:
+- Ejercicio 1:
+  - Modelo de Regresión Lineal Simple
+- Ejercicio 2:
+  - Modelo de Regresión Lineal Múltiple
+- Ejercicio 3:
+  - Feature selection automatizado
+  - Modelo de Regresión Lineal Múltiple
+- Ejercicio 4:
+  - Modelo de Regresión Lineal Múltiple
+  - Interpretabilidad del modelo
+- Ejercicio 5:
+  - Creación de función para Modelo de Regresión Lineal Múltiple
+- Ejercicio 6:
+  - Modelo de Regresión Espacial Múltiple
 
+### 2. datasets
+Conjunto de datasets utilizados en los distintos ejercicios del repositorio.
 
 ---
 
