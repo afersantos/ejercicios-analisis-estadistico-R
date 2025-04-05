@@ -1,7 +1,7 @@
 # Proyecto Académico Análisis Estadístico con R - Máster en Ciencia de Datos
 
 <div align="center">
-  <img src="https://www.ucjc.edu/wp-content/uploads/2016/11/logo-ucjc-1.png" alt="UCJC Logo" width="200"/>
+  <img src="assets/ucjc-logo.png" alt="UCJC Logo" width="300"/>
 </div>
 
 Este repositorio contiene varios ejercicios de análisis estadístico realizados como parte del **Máster en Ciencia de Datos** de la **Universidad Camilo José Cela**. Cada ejercicio ha sido diseñado para poner en práctica los conocimientos adquiridos de análisis estadístico a lo largo del máster.
